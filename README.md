@@ -2,6 +2,7 @@
 Open-source software project at Chosun University
 
 리눅스 명령어 top, ps, jobs, kill에 대하여
+
 ___
 
 > top 명령어는 시스템 프로세스/메모리 사용 현황을 실시간으로 출력하는 명령어이다.
